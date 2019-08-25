@@ -1,8 +1,8 @@
 {
-  "name": "myApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular",
-  "id": "61525c11"
+    "name": "myApp",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "angular",
+    "id": "61525c11"
 }
